@@ -12,5 +12,5 @@ spec:
     tty: true
 
   - name: pushtsdata
-    image: jpworkshop.azurecr.io/timeseries
+    image: winautomationregistry.azurecr.io/timeseries
     tty: true
