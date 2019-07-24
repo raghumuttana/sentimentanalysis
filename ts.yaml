@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: gettsdata
-    image: jpworkshop.azurecr.io/timeseries
+    image: winautomationregistry.azurecr.io/timeseries
     tty: true
 
   - name: pushtsdata
